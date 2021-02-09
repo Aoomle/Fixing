@@ -9,5 +9,6 @@ print(student.age)
 let studentData = (name: "Bobo", age: 27, petName: "Mango")
 
 studentData.name
+print(studentData.name)
 //: [⇒ Next: 03 - Challenge - Tuples](@next)
 
